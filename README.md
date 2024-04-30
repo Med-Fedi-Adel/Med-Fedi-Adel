@@ -3,13 +3,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Software Engineering Student, FullStack Developer
 
-* 🌍  I'm based in Tunis, TN
+* 🌍  I'm based in Tunis, T
 * 😄  side projects connoisseur
 * ⚡  Pronouns: he/him
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,figma,java,py,c,cpp,cs,dotnet,php,symfony,nodejs,npm,express,nestjs,graphql,react,vite,tailwind,supabase,heroku,jest,postman,git,docker,rabbitmq,vim,neovim,nginx,linux,arch,postgres,mongodb,mysql,prisma,pug,sklearn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,tailwind,pug,react,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,java,py,c,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,dotnet,symfony,nestjs,supabase,graphql,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=heroku,jest,postman,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,neovim,nginx,linux,arch)](https://skillicons.dev)
+
 
 ### Socials
 
