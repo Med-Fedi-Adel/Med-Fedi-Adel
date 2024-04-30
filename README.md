@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,figma,java,py,c,cpp,cs,dotnet,php,symfony,nodejs,npm,express,nestjs,graphql,react,vite,tailwind,supabase,heroku,jest,postman,git,docker,rabbitmq,vim,neovim,nginx,linux,arch,postgres,mongodb,mysql,prisma,pug,sklearn,tesnorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,figma,java,py,c,cpp,cs,dotnet,php,symfony,nodejs,npm,express,nestjs,graphql,react,vite,tailwind,supabase,heroku,jest,postman,git,docker,rabbitmq,vim,neovim,nginx,linux,arch,postgres,mongodb,mysql,prisma,pug,sklearn,tensorflow)](https://skillicons.dev)
 
 ### Socials
 
