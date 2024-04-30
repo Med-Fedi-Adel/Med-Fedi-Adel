@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Software Engineering Student, FullStack Developer
 
-* 🌍  I'm based in Tunis, T
-* 😄  side projects connoisseur
+* 🌍  I'm based in Tunis, TN
+* 😄  Side projects connoisseur
 * ⚡  Pronouns: he/him
 
 ### Skills
