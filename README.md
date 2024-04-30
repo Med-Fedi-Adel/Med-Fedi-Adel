@@ -3,8 +3,8 @@
 ### Software Engineering Student, FullStack Developer
 
 * 🌍  I'm based in Tunis, TN
-* ⚡ side project connoisseur
-* 😄 Pronouns: he/him
+* 😄  side projects connoisseur
+* ⚡  Pronouns: he/him
 
 ### Skills
 
