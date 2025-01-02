@@ -5,19 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Tunis, TN
 * 😄  Side projects connoisseur
-* ⚡  Pronouns: he/him
-
-### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=pug,react,vite,angular&perline=7)](https://skillicons.dev)
-[![My Skills1](https://skillicons.dev/icons?i=ts,java,py,c,cpp,cs&perline=8)](https://skillicons.dev)
-[![My Skills2](https://skillicons.dev/icons?i=nodejs&perline=2)](https://skillicons.dev)
-[![My Skills2](https://skillicons.dev/icons?i=express,dotnet,symfony,nestjs,supabase,graphql,rabbitmq&perline=7)](https://skillicons.dev)
-[![My Skills4](https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma&perline=4)](https://skillicons.dev)
-[![My Skills5](https://skillicons.dev/icons?i=heroku,jest,postman,git,docker&perline=5)](https://skillicons.dev)
-[![My Skills6](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&perline=3)](https://skillicons.dev)
-[![My Skills7](https://skillicons.dev/icons?i=vim,neovim,nginx,linux,arch&perline=5)](https://skillicons.dev)
-
 
 ### Socials
 
